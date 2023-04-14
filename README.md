@@ -9,4 +9,4 @@ Tecnologias utilizadas
 
 -Java 17
 
--STS
+-Testei
